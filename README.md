@@ -12,7 +12,7 @@ Nutze die REST-API von [PegelOnline](https://www.pegelonline.wsv.de/webservice/g
 Nutze einen nicht-proprietären Tech-Stack deiner Wahl, aber begründe deine Entscheidung knapp. Du kannst in einem privaten repo (bei einem Service deiner Wahl) arbeiten und [mich](https://github.com/zechmeister) einladen, wenn du fertig bist, oder mir eine Mail mit Archiv an florian.zechmeister@4germany.org schicken. In jedem Fall, sollte ein knappes Readme zur Ausführung dabei sein.
 
 ## Bewertung
-Du solltest für diese Challenge nicht mehr, als eine Stunde benötigen. Es ist möglich mit 1h Arbeit, die volle Punktzahl zu erreichen. 
+Du solltest für diese Challenge nicht mehr als eine Stunde benötigen. Es ist vollkommen möglich mit 1h Arbeit die volle Punktzahl zu erreichen. 
 
 Da dies eine Challenge für Engineering Fellows ist, wird der Fokus nicht auf dem Design liegen. Wir wollen sehen, dass du mit mittelmäßig dokumentierten APIs umgehen kannst und ressourcenschonend mit ihnen umgehst. Du solltest in der Lage sein sauberen, kommentierten Code zu schreiben und dich mit deinen Tools wohlfühlen. Wir erwarten, dass du reflektieren und begründen kannst, wie du vorgegangen bist. 
 
