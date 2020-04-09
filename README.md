@@ -19,7 +19,7 @@ Da dies eine Challenge für Engineering Fellows ist, wird der Fokus nicht auf de
 Einen Bonuspunkt gibt es, wenn du git verwendest und eine nachvollziehbare Commit History vorweisen kannst. 
 
 ## Viel Spaß!
-Du packst das – wir freuen uns auf deine Einreichung und erwarten hier wirklich keine Rocket Science 🚀. Vielen Dank! 
+Du packst das – wir freuen uns auf deine Einreichung und erwarten hier wirklich keine Rocket Science 🚀 Vielen Dank! 
 
 
 
