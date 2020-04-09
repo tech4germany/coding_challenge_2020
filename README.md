@@ -7,7 +7,7 @@ Die Passauer haben momentan keine gute Möglichkeit, sich unkompliziert einen Ü
 ![](https://www.sueddeutsche.de/image/sz.1.3444364?v=1507201446)
 
 ## Deine Aufgabe
-Nutze die REST-API von [PegelOnline](https://www.pegelonline.wsv.de/webservice/guideRestapi) und stelle die aktuellen Wasserstände der drei Passauer Messstellen übersichtlich dar. Nutzerinnen sollten auf einen Blick im Browser die neuesten Messwerte sehen und ob diese gerade steigend, fallend oder gleichbleibend sind. Bei Überschreitung der sogenannten Meldestufen, sollte darauf aufmerksam gemacht werden (Meldestufe1: 700cm, Meldestufe2: 740cm, Meldestufe3: 770cm und Meldestufe4: 850cm).
+Nutze die REST-API von [PegelOnline](https://www.pegelonline.wsv.de/webservice/guideRestapi) und stelle die aktuellen Wasserstände der vier Passauer Messstellen übersichtlich dar. Nutzerinnen sollten auf einen Blick im Browser die neuesten Messwerte sehen und ob diese gerade steigend, fallend oder gleichbleibend sind. Bei Überschreitung der sogenannten Meldestufen, sollte darauf aufmerksam gemacht werden (Meldestufe1: 700cm, Meldestufe2: 740cm, Meldestufe3: 770cm und Meldestufe4: 850cm).
 
 Nutze einen nicht-proprietären Tech-Stack deiner Wahl, aber begründe deine Entscheidung knapp. Du kannst in einem privaten repo (bei einem Service deiner Wahl) arbeiten und [mich](https://github.com/zechmeister) einladen, wenn du fertig bist, oder mir eine Mail mit Archiv an florian.zechmeister@4germany.org schicken. In jedem Fall, sollte ein knappes Readme zur Ausführung dabei sein.
 
